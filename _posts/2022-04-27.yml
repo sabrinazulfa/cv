@@ -3,5 +3,5 @@ title: Riwayat Hidup
 date: 2022-04-27 23:27:00 +/-TTTT
 #categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: biodata     # TAG names should always be lowercase
-author: author.yml
+author: authors.yml
 ---
